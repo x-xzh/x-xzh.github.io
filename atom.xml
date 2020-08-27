@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-27T15:42:10.462Z</updated>
+  <updated>2020-08-27T15:30:14.774Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,19 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>page</title>
-    <link href="http://yoursite.com/2020/08/27/page/"/>
-    <id>http://yoursite.com/2020/08/27/page/</id>
-    <published>2020-08-27T15:42:10.000Z</published>
-    <updated>2020-08-27T15:42:10.462Z</updated>
-    
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Docker中安装Mysql</title>
