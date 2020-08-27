@@ -650,3 +650,13 @@
   background-color: rgba(0,0,0,.6);
 }
 
+#web_bg {
+  /* webkit内核 5.1 - 6.0 */
+  background: -webkit-linear-gradient(left, rgba(255, 223, 223, 0.77), rgba(199, 255, 238, 0.71));
+  /* Opera 11.1 - 12.0 */
+  background: -o-linear-gradient(right, rgba(255, 223, 223, 0.77), rgba(199, 255, 238, 0.71));
+  /* Firefox 3.6 - 15 */
+  background: -moz-linear-gradient(right, rgba(255, 223, 223, 0.77), rgba(199, 255, 238, 0.71));
+  /* 标准的语法 */
+  background: linear-gradient(to right, rgba(255, 223, 223, 0.77), rgba(199, 255, 238, 0.71));
+}
