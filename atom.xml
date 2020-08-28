@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>xzh</title>
-  <icon>http://yoursite.com/icon.png</icon>
+  <icon>http://x-xzh.github.io/icon.png</icon>
   <subtitle>xzh</subtitle>
-  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://x-xzh.github.io/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://x-xzh.github.io/"/>
   <updated>2020-08-27T15:30:14.774Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://x-xzh.github.io/</id>
   
   <author>
     <name>xzh</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Docker中安装Mysql</title>
-    <link href="http://yoursite.com/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Mysql/"/>
-    <id>http://yoursite.com/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Mysql/</id>
+    <link href="http://x-xzh.github.io/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Mysql/"/>
+    <id>http://x-xzh.github.io/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Mysql/</id>
     <published>2020-08-27T15:40:00.000Z</published>
     <updated>2020-08-27T15:30:14.774Z</updated>
     
@@ -28,17 +28,17 @@
     
     
     
-    <category term="Doker" scheme="http://yoursite.com/categories/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/categories/Doker/"/>
     
     
-    <category term="Doker" scheme="http://yoursite.com/tags/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/tags/Doker/"/>
     
   </entry>
   
   <entry>
     <title>Docker中安装Redis</title>
-    <link href="http://yoursite.com/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Redis/"/>
-    <id>http://yoursite.com/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Redis/</id>
+    <link href="http://x-xzh.github.io/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Redis/"/>
+    <id>http://x-xzh.github.io/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Redis/</id>
     <published>2020-08-27T15:30:00.000Z</published>
     <updated>2020-08-27T15:30:16.026Z</updated>
     
@@ -47,17 +47,17 @@
     
     
     
-    <category term="Doker" scheme="http://yoursite.com/categories/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/categories/Doker/"/>
     
     
-    <category term="Doker" scheme="http://yoursite.com/tags/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/tags/Doker/"/>
     
   </entry>
   
   <entry>
     <title>Docker中安装Tomcat</title>
-    <link href="http://yoursite.com/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Tomcat/"/>
-    <id>http://yoursite.com/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Tomcat/</id>
+    <link href="http://x-xzh.github.io/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Tomcat/"/>
+    <id>http://x-xzh.github.io/2020/08/27/docker/Docker%E4%B8%AD%E5%AE%89%E8%A3%85Tomcat/</id>
     <published>2020-08-27T15:20:00.000Z</published>
     <updated>2020-08-27T15:28:57.251Z</updated>
     
@@ -66,17 +66,17 @@
     
     
     
-    <category term="Doker" scheme="http://yoursite.com/categories/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/categories/Doker/"/>
     
     
-    <category term="Doker" scheme="http://yoursite.com/tags/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/tags/Doker/"/>
     
   </entry>
   
   <entry>
     <title>Docker</title>
-    <link href="http://yoursite.com/2020/08/27/docker/Docker/"/>
-    <id>http://yoursite.com/2020/08/27/docker/Docker/</id>
+    <link href="http://x-xzh.github.io/2020/08/27/docker/Docker/"/>
+    <id>http://x-xzh.github.io/2020/08/27/docker/Docker/</id>
     <published>2020-08-27T15:10:00.000Z</published>
     <updated>2020-08-27T15:33:15.494Z</updated>
     
@@ -85,17 +85,17 @@
     
     
     
-    <category term="Doker" scheme="http://yoursite.com/categories/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/categories/Doker/"/>
     
     
-    <category term="Doker" scheme="http://yoursite.com/tags/Doker/"/>
+    <category term="Doker" scheme="http://x-xzh.github.io/tags/Doker/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/26/hello-world/"/>
-    <id>http://yoursite.com/2020/08/26/hello-world/</id>
+    <link href="http://x-xzh.github.io/2020/08/26/hello-world/"/>
+    <id>http://x-xzh.github.io/2020/08/26/hello-world/</id>
     <published>2020-08-26T04:40:52.006Z</published>
     <updated>2020-08-26T04:40:52.006Z</updated>
     
