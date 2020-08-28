@@ -1,5 +1,5 @@
 #shuoshuo_content {
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0);
     padding: 10px;
     min-height: 500px;
 }
@@ -165,7 +165,7 @@ p.shuoshuo_time {
 	padding: 5px 8px 3px;
 }
 .photos-btn.active {
-	color: #08c;
-	border: 1px solid #e5e5e5;
-	border-bottom: 5px solid #fff;
+	color: #000000;
+	border: 1px solid rgba(229, 229, 229, 0);
+	border-bottom: 5px solid rgba(255, 255, 255, 0);
 }
